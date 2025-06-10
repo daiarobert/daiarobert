@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Robert Daia
+# 👋 Hi, I'm Robert
 
 I'm a Frontend & Fullstack Developer passionate about building clean, responsive interfaces and smart automation tools. I’ve worked on projects ranging from eCommerce and dashboards to DevOps pipelines — combining creativity, code, and curiosity to solve real problems.
 
