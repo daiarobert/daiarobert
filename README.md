@@ -1,43 +1,112 @@
 # 👋 Hi, I'm Robert
 
-I'm a Frontend & Fullstack Developer passionate about building clean, responsive interfaces and smart automation tools. I’ve worked on projects ranging from eCommerce and dashboards to DevOps pipelines — combining creativity, code, and curiosity to solve real problems.
+**Frontend & Fullstack Developer** who builds modern fullstack applications with clean code and thoughtful architecture. I create responsive interfaces, real-time systems, and secure authentication flows and automated deployment pipelines.
 
 ---
 
-## 💻 What I work with
-
-- **Frontend:** React, Vue, Next, Tailwind, TypeScript, GSAP, ShadCN, DaisyUI
-- **Backend:** Node.js, Express, MongoDB, JWT Auth
-- **DevOps:** AWS, GitHub Actions, Docker, Jenkins, Ansible, CI/CD pipelines
-- **Other tools:** Git, Figma, Postman, Framer Motion
-
----
-
-## 🚀 Featured Projects
-
-### [`Atipic`](https://github.com/daiarobert/atipic)  
-Full MERN stack platform for an autism support center with public site and admin dashboard (JWT auth, CRUD for articles & team).
-
-### [`Innergy Dashboard`](https://github.com/daiarobert/innergy-dashboard)  
-Admin panel built in React + Next.js for managing articles and products, with clean UI, animations, and role-based login.
-
-### [`Pokedex Vue`](https://github.com/daiarobert/pokedex-vue)  
-Mini frontend project that fetches Pokémon data using Axios and displays it in a stylish, responsive grid.
-
-### [`DevOps Django CI/CD`](https://github.com/daiarobert/devops-django-cicd)  
-3-tier AWS deployment pipeline using Jenkins, Ansible, and Docker — fully automated via GitHub Actions.
+## 🎯 What I Deliver
+ 
+🚀 **Scalable Web Applications** - Full-stack solutions  
+🔐 **Secure Authentication Systems** - JWT, encryption, and enterprise-grade security 
+⚡ **Real-time Data Processing** - WebSocket implementations for live market data  
+🏗️ **DevOps & Automation** - Complete CI/CD pipelines and cloud infrastructure  
 
 ---
 
-## 🎯 Currently focused on
+## 💻 Tech Arsenal
 
-- Building real-world projects that solve problems
-- Improving testing & accessibility practices
-- Exploring AI integration and cloud services
-- Becoming a more versatile engineer, not just a coder
+**Frontend**
+React • Vue • Next.js • TypeScript • Tailwind CSS GSAP • ShadCN • DaisyUI • Framer Motion
+
+**Backend**
+Node.js • Express • Flask • Python • MongoDB • MySQL JWT Authentication • RESTful APIs • WebSocket/Socket.IO
+
+**DevOps & Cloud**
+AWS • Docker • Jenkins • Ansible • GitHub Actions CI/CD Pipelines • Infrastructure as Code
+
+
+## 🏆 Portfolio Highlights
+
+### 💹 [`Real-Time Trading Platform`](https://github.com/daiarobert/trading-platform)
+**Enterprise-grade financial orderbook system for investment banks**
+- ⚡ **Real-time WebSocket updates** for live market data
+- 🔐 **Authentication** with JWT + bcrypt encryption
+- 📊 **Advanced order management** with instant execution
+- 💰 **Portfolio tracking** and transaction history
+- 🎨 **Professional UI** built for high-frequency trading
+
+`React • Flask • MySQL • Socket.IO • JWT • Tailwind • Python`
 
 ---
 
-📫 Want to connect or collaborate?  
-Find me on [LinkedIn](https://www.linkedin.com/in/robertdaia) or check out more on [github.com/daiarobert](https://github.com/daiarobert)
+### 🏥 [`Atipic Platform`](https://github.com/daiarobert/atipic)
+**Full-stack MERN application for healthcare center management**
+- 👥 **Multi-role admin dashboard** with secure authentication
+- 📝 **Content management system** for articles and team profiles
+- 🎨 **Responsive public website** with modern UI/UX
+- 🔒 **Role-based access control** and data protection
+
+`MongoDB • Express • React • Node.js • JWT • Responsive Design`
+
+---
+
+### 📊 [`Innergy Dashboard`](https://github.com/daiarobert/innergy-dashboard)
+**High-performance admin panel with advanced animations**
+- ⚡ **Lightning-fast React + Next.js** architecture
+- 🎬 **Smooth animations** with Framer Motion
+- 🔐 **Secure role-based authentication** system
+- 📱 **Mobile-first responsive** design
+
+`React • Next.js • Tailwind • Framer Motion • Authentication`
+
+---
+
+### 🚀 [`DevOps Django Pipeline`](https://github.com/daiarobert/devops-django-cicd)
+**Production-ready 3-tier AWS deployment infrastructure**
+- ☁️ **Automated AWS deployment** with Infrastructure as Code
+- 🔄 **Complete CI/CD pipeline** with GitHub Actions
+- 🐳 **Containerized applications** with Docker
+- 🛠️ **Configuration management** with Ansible
+
+`AWS • Jenkins • Docker • Ansible • GitHub Actions • Django`
+
+---
+
+## 🎯 Why Work With Me?
+
+🔥 **Proven Track Record**
+⚡ **Performance Focused** - Applications that scale and perform under pressure  
+🛡️ **Security First** - Enterprise-grade authentication and data protection  
+🎨 **User-Centric Design** - Beautiful interfaces that users actually want to use  
+🚀 **Full-Stack Versatility** - From database design to deployment automation  
+💼 **Business Understanding** - Code that solves real problems and drives results  
+
+---
+
+
+## 💡 Let's Build Something Amazing Together
+
+**Ready to discuss your next project?**
+
+💼 **LinkedIn**: [linkedin.com/in/robertdaia](https://www.linkedin.com/in/robertdaia)  
+🚀 **Portfolio**: [github.com/daiarobert](https://github.com/daiarobert)  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
